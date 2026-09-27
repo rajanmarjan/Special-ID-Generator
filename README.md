@@ -23,6 +23,7 @@ Output tersebut didapat dari 3 input yang juga sudah tertera pada screenshot, me
 - sprintf(): Berfungsi untuk menyatukan/menggabungkan (konkatenasi) semua komponen variabel (nama[0], op1, umur, op2, dan akhiran) menjadi satu string baru yang disimpan dalam variabel id
 
 ### Berikut source code lengkap yang saya buat
+```
 #include <stdio.h>
 
 int main() {
